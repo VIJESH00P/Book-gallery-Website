@@ -1,0 +1,227 @@
+
+#div1{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    position: sticky;
+    top: 0; 
+    
+    
+}
+#place{
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 500px;
+    height: 30px;
+    float: left;
+}
+h4{
+    float: left;
+    margin-left: 25px;
+    color: white;
+    padding-top: 15px;
+}
+#div2{
+    
+    height: 75px;
+    width: 100%;
+    background-color:black;
+}
+#img2{
+    margin-left: 350px;
+}
+.button{
+    margin-top: 50px;
+    height: 30px;
+    background-color: red;
+}
+#div3{
+    background-image: url(https://wallpapercrafter.com/desktop/129324-library-Photoshop-magic-book-store-books.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+#place1{
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 200px;
+    height: 30px;
+}
+.button2{
+    margin-top: 37px;
+    height: 30px;
+    background-color: red;
+    
+}
+.icon{
+    height: 20px;
+    width: 40px;
+    margin-top: 45px;
+    
+}
+.offer{
+    font-size: xx-large;
+    color:white;
+    margin-left: 300px;
+    padding-top: 150px;
+    float: left;
+
+}
+.sale{
+    font-size: xx-large;
+    color:white;
+    margin-left: 1000px;
+    padding-top: 150px;
+    
+}
+h3{
+    color: white;
+}
+
+.best{
+    /* margin-left: 400px; */
+}
+img{
+    height: 200px;
+    width: 200px;
+    
+    
+}
+.col1{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col2{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col3{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col4{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col5{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+
+}
+.im{
+    padding-left: 25px;
+    padding-top: 25px;
+    
+}
+.col6{
+    height: 400px;
+    width: 250px;
+    background-color:ghostwhite;
+    
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col7{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col8{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col9{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.col10{
+    height: 400px;
+    width: 250px;
+    background-color: ghostwhite;
+    float: left;
+    margin: 17px;
+    transition: 1s;
+}
+.but:hover{
+    background-color: red;
+}
+.col10:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col9:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col8:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col7:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col6:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col5:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col4:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col3:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col2:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.col1:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+.div5{
+    float: left;
+}
+
+
+bookstore:hover{
+    color: crimson;
+}
